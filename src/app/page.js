@@ -61,12 +61,12 @@ export default function ComingSoon() {
     },
     {
       icon: <FaTelegram className="w-6 h-6" />,
-      href: "t.me/sylvantoken",
+      href: "https://t.me/sylvantoken",
       label: "Telegram"
     },
     {
       icon: <FaGlobe className="w-6 h-6" />,
-      href: "www.sylvantoken.org",
+      href: "https://www.sylvantoken.org",
       label: "Website"
     }
   ]
